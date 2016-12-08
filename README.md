@@ -1,0 +1,3 @@
+# AndroidSockect_Control_AT89C51
+基于JAVA串口API函数和RS232通信标准协议，Android通过上位机串口通信控制AT89C51
+
